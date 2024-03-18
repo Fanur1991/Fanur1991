@@ -18,6 +18,7 @@
 <h4>Backend</h4>
 <p>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/Express-%23000000?logo=express">
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="Jest" src="https://img.shields.io/badge/-jest-be3d19?style=for-the-badge&logo=jest&logoColor=white" />
