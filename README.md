@@ -1,5 +1,5 @@
 <h2>FULLSTACK WEB DEVELOPER</h2>
-
+<!--
 <h3>When I code, I rely on</h3>
 <h4>Frontend</h4>
 <p>
@@ -44,6 +44,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fanur&theme=blood&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=false&border_radius=10)](https://git.io/streak-stats)
 
 ![Fanur's GitHub stats](https://github-readme-stats.vercel.app/api?username=fanur1991&hide_border=false&border_radius=10&show_icons=false&bg_color=ffffff&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+--!>
 <!--
 **Fanur1991/Fanur1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
