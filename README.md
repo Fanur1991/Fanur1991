@@ -41,7 +41,7 @@
 
 <h3>My GitHub contributions summary</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fanur&theme=cobalt&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=false&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fanur&theme=blood&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=false&border_radius=10)](https://git.io/streak-stats)
 
 ![Fanur's GitHub stats](https://github-readme-stats.vercel.app/api?username=fanur1991&hide_border=false&border_radius=10&show_icons=false&bg_color=ffffff&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 <!--
