@@ -33,6 +33,7 @@
   <img alt="github" src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github">
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img alt="gitlab" src="https://img.shields.io/badge/GitLab-%23000000?style=for-the-badge&logo=gitlab">
+  <img alt="yarn" src="https://img.shields.io/badge/Yarn-%23ffffff?style=for-the-badge&logo=yarn">
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" />
 </p>
